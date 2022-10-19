@@ -1,6 +1,6 @@
 
 
-<h3> About me: </h3>
+<h3> Who am i you ask... </h3>
 I'm Arisson Santos, i'm living at Brazil, studying at UCB and learning some programming fundamentals throug C, my objective is build from scratch my own empire of money and success with AI, and so i will.
 
 
