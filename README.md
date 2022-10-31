@@ -1,7 +1,7 @@
 
 
 <h3> Who am i you ask... </h3>
-I'm Arisson Santos, i'm living at Brazil, studying at UCB and learning some programming fundamentals throug C, my objective is build from scratch my own empire of money and success with AI, and so i will.
+I'm Arisson Santos, i'm living at Brazil, studying at UCB and learning some programming fundamentals through C, my objective is...
 
 
 <h4> You can find me here: </h4>
